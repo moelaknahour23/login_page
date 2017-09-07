@@ -1,0 +1,37 @@
+• all team member names, or else no credit!!!
+	Mohammad Laknahour
+	Maila De Peralta
+
+• a description of all files you are turning in (especially if there are extra PHP files)
+
+		*lab3.php
+		--Shows login page and register button
+
+		*lab3.css
+		--Contains all CSS styling 
+
+		*config.php
+		--connects to the database
+		--checks form input for errors
+		--encrypts the password before storing to database
+		--registers user to database if there are no errors
+		--redirects user to homepage or outputs wrong username of password
+
+		*homepage.php
+		--checks browser session
+		--admin is redirected to usrlist.php
+		--guest is redirected to lab3.php
+		--user is shown a Welcome text
+
+		*register.php
+		--Shows registration form
+
+		*errors.php
+		--Outputs values contained in $errors if any
+
+• a description of how much of the project is complete, including extra credit
+	100% Complete.
+
+• a description of any known bugs in the program
+	No known bugs.
+

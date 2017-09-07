@@ -1,0 +1,73 @@
+
+body{
+	background-color: lightblue;
+}
+input[type="text"]{
+
+width: 70%;
+height: 40px;
+font-size: 20px;
+}
+
+input[type="password"]{
+margin-top: 20px;
+width: 70%;
+height: 40px;
+font-size: 20px;
+}
+
+form{
+
+	border-style: solid;
+	border-color: black;
+	border-radius: 30px;
+	border-width: 5px;
+	width: 30%;
+	height: 400px;
+	background-color: white;
+
+
+}
+
+#button1{
+	width: 70%;
+	margin-top: 30px;
+	color: white;
+	background-color: blue; 
+	font-size: 16px;
+}
+
+#register{
+	width: 70%;
+	margin-top: 30px;
+	color: white;
+	background-color: red; 
+	font-size: 16px;
+}
+
+#cancel{
+	width: 30%;
+	margin-top: 30px;
+	color: white;
+	background-color: red; 
+	font-size: 16px;
+}
+
+
+
+#logout{
+	text-decoration: none;
+	height: 50px;
+	font-size: 22px;
+}
+
+#a_position{
+	margin-bottom: 100px;
+	margin-left: 240px;
+}
+#home{
+	margin-top: 80px;
+}
+
+
+
